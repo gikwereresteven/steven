@@ -1,2 +1,2 @@
 # steven
-I have graduated in IT  
+I have graduated in Information System 
